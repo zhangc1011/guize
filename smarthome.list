@@ -1,61 +1,61 @@
-# === 智能家居 - 小米/米家/美家 ===
-- DOMAIN-SUFFIX,mi.com
-- DOMAIN-SUFFIX,xiaomi.com
-- DOMAIN-SUFFIX,mijia.com
-- DOMAIN-SUFFIX,xiaomiyoupin.com
-- DOMAIN-KEYWORD,xiaomi
-- DOMAIN-KEYWORD,mijia
+# 智能家居 - 小米/米家/美家
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mijia.com
+DOMAIN-SUFFIX,xiaomiyoupin.com
+DOMAIN-KEYWORD,xiaomi
+DOMAIN-KEYWORD,mijia
 
-# === 智能家居 - 石头科技 (Roborock) ===
-- DOMAIN-SUFFIX,roborock.com
-- DOMAIN-SUFFIX,roborock.com.cn
-- DOMAIN-SUFFIX,roborock.cn
-- DOMAIN-KEYWORD,roborock
+# 智能家居 - 石头科技 (Roborock)
+DOMAIN-SUFFIX,roborock.com
+DOMAIN-SUFFIX,roborock.com.cn
+DOMAIN-SUFFIX,roborock.cn
+DOMAIN-KEYWORD,roborock
 
-# === 智能家居 - 涂鸦智能/智能生活 ===
-- DOMAIN-SUFFIX,tuya.com
-- DOMAIN-SUFFIX,tuya.com.cn
-- DOMAIN-SUFFIX,tuyacn.com
-- DOMAIN-SUFFIX,tuyaus.com
-- DOMAIN-SUFFIX,tuyaeu.com
-- DOMAIN-SUFFIX,smartlife.com
-- DOMAIN-KEYWORD,tuya
+# 智能家居 - 涂鸦智能/智能生活
+DOMAIN-SUFFIX,tuya.com
+DOMAIN-SUFFIX,tuya.com.cn
+DOMAIN-SUFFIX,tuyacn.com
+DOMAIN-SUFFIX,tuyaus.com
+DOMAIN-SUFFIX,tuyaeu.com
+DOMAIN-SUFFIX,smartlife.com
+DOMAIN-KEYWORD,tuya
 
-# === 智能家居 - 绿米/Aqara ===
-- DOMAIN-SUFFIX,aqara.com
-- DOMAIN-SUFFIX,aqara.cn
-- DOMAIN-SUFFIX,lumiunited.com
-- DOMAIN-SUFFIX,lumi.com.cn
+# 智能家居 - 绿米/Aqara
+DOMAIN-SUFFIX,aqara.com
+DOMAIN-SUFFIX,aqara.cn
+DOMAIN-SUFFIX,lumiunited.com
+DOMAIN-SUFFIX,lumi.com.cn
 
-# === 智能家居 - 华为鸿蒙智联 (HarmonyOS Connect) ===
-- DOMAIN-SUFFIX,huawei.com
-- DOMAIN-SUFFIX,dbankcloud.com
-- DOMAIN-SUFFIX,dbankcloud.cn
-- DOMAIN-SUFFIX,himelink.com
+# 智能家居 - 华为鸿蒙智联 (HarmonyOS Connect)
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,dbankcloud.com
+DOMAIN-SUFFIX,dbankcloud.cn
+DOMAIN-SUFFIX,himelink.com
 
-# === 智能家居 - 易微联 (eWeLink / Sonoff) ===
-- DOMAIN-SUFFIX,coolkit.cn
-- DOMAIN-SUFFIX,coolkit.cc
-- DOMAIN-SUFFIX,ewelink.cc
-- DOMAIN-SUFFIX,ewelink.cn
+# 智能家居 - 易微联 (eWeLink / Sonoff)
+DOMAIN-SUFFIX,coolkit.cn
+DOMAIN-SUFFIX,coolkit.cc
+DOMAIN-SUFFIX,ewelink.cc
+DOMAIN-SUFFIX,ewelink.cn
 
-# === 智能家居 - 传统家电巨头 (美的/海尔/格力/海信) ===
-- DOMAIN-SUFFIX,midea.com
-- DOMAIN-SUFFIX,midea.com.cn
-- DOMAIN-SUFFIX,haier.com
-- DOMAIN-SUFFIX,haier.net
-- DOMAIN-SUFFIX,gree.com
-- DOMAIN-SUFFIX,gree.com.cn
-- DOMAIN-SUFFIX,hisense.com
+# 智能家居 - 传统家电巨头 (美的/海尔/格力/海信)
+DOMAIN-SUFFIX,midea.com
+DOMAIN-SUFFIX,midea.com.cn
+DOMAIN-SUFFIX,haier.com
+DOMAIN-SUFFIX,haier.net
+DOMAIN-SUFFIX,gree.com
+DOMAIN-SUFFIX,gree.com.cn
+DOMAIN-SUFFIX,hisense.com
 
-# === 智能音箱 & 电视中枢 (小度/天猫精灵/萤石云) ===
-- DOMAIN-SUFFIX,baidu.com
-- DOMAIN-SUFFIX,dueros.ai
-- DOMAIN-SUFFIX,aligenie.com
-- DOMAIN-SUFFIX,alicloud.com
-- DOMAIN-SUFFIX,ys7.com
-- DOMAIN-SUFFIX,ezvizlife.com
+# 智能家居 - 智能音箱 & 电视中枢 (小度/天猫精灵/萤石云)
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,dueros.ai
+DOMAIN-SUFFIX,aligenie.com
+DOMAIN-SUFFIX,alicloud.com
+DOMAIN-SUFFIX,ys7.com
+DOMAIN-SUFFIX,ezvizlife.com
 
-# === 智能路由与拓扑 (TP-LINK) ===
-- DOMAIN-SUFFIX,tp-link.com.cn
-- DOMAIN-SUFFIX,tplinkcloud.com.cn
+# 智能家居 - 智能路由与拓扑 (TP-LINK)
+DOMAIN-SUFFIX,tp-link.com.cn
+DOMAIN-SUFFIX,tplinkcloud.com.cn
