@@ -59,3 +59,14 @@ DOMAIN-SUFFIX,ezvizlife.com
 # 智能家居 - 智能路由与拓扑 (TP-LINK)
 DOMAIN-SUFFIX,tp-link.com.cn
 DOMAIN-SUFFIX,tplinkcloud.com.cn
+
+# 智能家居 - 华为 (Huawei / AI Life)
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,dbankcloud.com
+DOMAIN-SUFFIX,dbankcloud.cn
+DOMAIN-SUFFIX,himelink.com
+
+# 体育直播 - 企鹅体育 (Qie Sports)
+DOMAIN-SUFFIX,qie.tv
+DOMAIN-SUFFIX,live.qq.com
