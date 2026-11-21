@@ -5,3 +5,6 @@ DOMAIN-KEYWORD,pocketcasts
 
 #z-library
 DOMAIN-KEYWORD,z-library
+
+#art
+DOMAIN-SUFFIX,artstation.com
